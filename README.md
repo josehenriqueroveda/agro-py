@@ -1,5 +1,7 @@
 # Agro-py
 
+[![Lint](https://github.com/josehenriqueroveda/agro-py/actions/workflows/black.yml/badge.svg)](https://github.com/josehenriqueroveda/agro-py/actions/workflows/black.yml)
+
 Agro-py is a collection of Python projects aimed at providing solutions for various agricultural needs. Each project focuses on a specific aspect of agriculture, leveraging the power of Python to simplify and automate tasks.
 
 ## Installation
